@@ -1,0 +1,8 @@
+# .gitignore
+Data/Raw/
+Data/Processed/
+*.ipynb_checkpoints
+.env
+*.tif
+*.shp
+*.geojsons
