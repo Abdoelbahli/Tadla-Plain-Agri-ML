@@ -17,3 +17,5 @@ venv/
 *.prj
 *.csv
 *.geojsons
+
+config.yml

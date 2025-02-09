@@ -1,0 +1,4 @@
+paths:
+  raw_data: "Data/Raw/"
+  processed_data: "Data/Processed/"
+  tadla_boundary: "Data/Processed/GIS/Study_Area_Boundary/tadla_plain_common.shp"
