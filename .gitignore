@@ -1,8 +1,19 @@
-# .gitignore
+# Data
 Data/Raw/
 Data/Processed/
+
+# Jupyter
 *.ipynb_checkpoints
-.env
+
+# Environment
+.env/
+venv/
+
+# Large files
 *.tif
 *.shp
+*.dbf
+*.shx
+*.prj
+*.csv
 *.geojsons
