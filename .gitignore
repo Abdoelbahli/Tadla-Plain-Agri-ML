@@ -19,3 +19,6 @@ venv/
 *.geojsons
 
 config.yml
+
+
+GDAL-3.10.1-cp312-cp312-win_amd64.whl
