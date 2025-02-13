@@ -6,7 +6,7 @@ Data/Processed/
 *.ipynb_checkpoints
 
 # Environment
-.env/
+.env
 venv/
 
 # Large files
