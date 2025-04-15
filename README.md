@@ -1,4 +1,5 @@
 # Tadla Agricultural ML Project
 
 ## Overview
-A machine learning and GIS-based project to optimize irrigation strategies in Morocco's Tadla Plain.
+
+Tadla-Plain-Agri-ML is a machine learning project designed to analyze and provide insights into agricultural data from the Tadla Plain region. The project leverages data science and machine learning techniques to improve agricultural practices and decision-making processes.
