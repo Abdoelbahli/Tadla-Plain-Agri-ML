@@ -6,5 +6,6 @@ Tadla-Plain-Agri-ML is a machine learning project designed to analyze and provid
 
 ## Features
 List the key features of the project, such as:
+- Data analysis and preprocessing techniques.
 
 
